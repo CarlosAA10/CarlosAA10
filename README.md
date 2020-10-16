@@ -1,16 +1,21 @@
-### Hi there 👋
+### WELCOME TO MY GITHUB PROFILE 
 
-<!--
-**CarlosAA10/CarlosAA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Carlos, a full stack web developer who enjoys hanging out in nature , has a never ending passion for learning about software development, 
+and loves the opportunity to expand knowledge not just to myself but to others as well 📚✨
 
-Here are some ideas to get you started:
+I am currently a student at Lambda School, finishing up the full stack web development course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a couple languages, tech stacks, and frameworks I have familiarized myself with:
+
+[] -- Javascript
+[] -- Python
+[] -- Vue.js
+[] -- React
+[] -- Redux
+[] -- Context API
+[] -- Node.js
+
+
+🤝🏻  Connect with Me at the following links: 
+LinkedIn: http://www.linkedin.com/in/carlos-arguello-dev
+Email: carlosalvarg10@gmail.com
